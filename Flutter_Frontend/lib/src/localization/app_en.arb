@@ -1,0 +1,6 @@
+{
+  "appTitle": "PLK TEST APP",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
